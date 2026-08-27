@@ -1,0 +1,20 @@
+name: handson-ml-ai
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipython
+  - openpyxl
+  - seaborn
+  - statsmodels
+  - pip
