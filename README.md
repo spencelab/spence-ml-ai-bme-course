@@ -179,18 +179,7 @@ jupyter lab
 versus selecting `handson-ml-ai` as the kernel in VS Code.
 
 **Miniforge/Conda = Python + packages**
+
 **Jupyter kernel = running Python session**
+
 **VS Code or JupyterLab = interface looking at that session**
-
-## Coding Environment Setup for Visual Studio Code
-
-*. Install mini-forge for your computer type: https://github.com/conda-forge/miniforge
-*. Use terminal or miniforge prompt to install the class python environment:
-    *. Do this...
-*. Install Visual Studio Code
-*. Launch it, and install the following extensions:
-    *. Python, debugger, more
-    *. Jupyter notebooks? renderer, plotly
-    *. Ipython notebooks?
-*. Open the diagnostic ipynb file from this class github page.
-*. Test that you can run things, see variables and function objects, etc.
