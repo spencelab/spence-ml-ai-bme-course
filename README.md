@@ -144,9 +144,7 @@ You should be able to inspect `x`, `df`, and other objects while the notebook is
 
 Don't spend an hour fighting your computer alone. Bring the error to class or post the exact error message so we can troubleshoot it together.
 
-````
-
-And here’s the environment I’d start with:
+And here’s the environment I’d start with. It's available as a file int his git repo under conda_environments.
 
 ```yaml
 name: handson-ml-ai
@@ -169,9 +167,7 @@ dependencies:
   - seaborn
   - statsmodels
   - pip
-````
-
-[Download `environment.yml`](sandbox:/mnt/data/environment.yml)
+```
 
 Note how these things are linked:
 
