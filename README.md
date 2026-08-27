@@ -102,6 +102,10 @@ If you do not immediately see it, choose:
 
 **Select Another Kernel → Python Environments → handson-ml-ai**
 
+If it doesn't show up there, try clicking the Python symbol in the left hand extensions columns, then open "environemnt manager" down teh bottom, and it should show all your environemtns and you can clikc the check box to assigne the environment to this project, and then is should appear in teh upper right and your can run your cells in it.
+
+<img width="1728" height="1045" alt="image" src="https://github.com/user-attachments/assets/111cac7e-171a-4670-8168-cd51b3895d44" />
+
 ### 7. Test your setup
 
 Run several cells in the diagnostic notebook.
