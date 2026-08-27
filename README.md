@@ -11,6 +11,11 @@ A. J. Spence - Hands on ML AI in Biomedical Engineering Class Materials
 https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/02_Python_for_ML_Bootcamp_Biomechanics.ipynb
 )
 
+Boot camp supplement:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/00b_Data_Types_Indexing_Bridge.ipynb
+)
+
 ## Coding Environment Setup for Visual Studio Code
 
 *. Install mini-forge for your computer type: https://github.com/conda-forge/miniforge
