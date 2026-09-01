@@ -16,6 +16,10 @@ Boot camp supplement:
 https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/00b_Data_Types_Indexing_Bridge.ipynb
 )
 
+## Week 2
+
+We are continuing with the Boot Camp, and reading Chapter 1 of Geron.
+
 ## Coding Environment Setup for Visual Studio Code
 
 We will start the course using Google Colab, but we will also set up a local Python environment in Visual Studio Code. This will give us better tools for inspecting variables, debugging code, and working with larger local datasets later in the semester.
