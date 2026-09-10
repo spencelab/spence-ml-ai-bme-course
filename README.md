@@ -187,3 +187,16 @@ versus selecting `handson-ml-ai` as the kernel in VS Code.
 **Jupyter kernel = running Python session**
 
 **VS Code or JupyterLab = interface looking at that session**
+
+## Week 3
+
+In the first class we went over common questions and issues with the Boot Camp notebook. Then we looked at the life satisfaction code at the end of the Geron Chapter 1 notebook, in order to learn about overfitting and underfitting. At the end of class I gave out the "mystery data set" and students began the Exercise questions on that data set in Canvas.
+
+In the second class we will work through the mystery data set notebook, alternating between self work and regrouping. The notebook is here:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03_Mystery_Dataset_End_to_End_ML.ipynb
+)
+
+
+
