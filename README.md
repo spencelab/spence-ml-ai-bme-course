@@ -11,7 +11,7 @@ A. J. Spence - Hands on ML AI in Biomedical Engineering Class Materials
 https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/02_Python_for_ML_Bootcamp_Biomechanics.ipynb
 )
 
-Boot camp supplement:
+#### Boot camp supplement:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/00b_Data_Types_Indexing_Bridge.ipynb
 )
@@ -194,6 +194,7 @@ In the first class we went over common questions and issues with the Boot Camp n
 
 In the second class we will work through the mystery data set notebook, alternating between self work and regrouping. The notebook is here:
 
+### Mystery data set End to End ML
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03_Mystery_Dataset_End_to_End_ML.ipynb
 )
