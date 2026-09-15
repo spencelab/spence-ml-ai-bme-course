@@ -202,5 +202,11 @@ In the second class we will work through the mystery data set notebook, alternat
 https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03_Mystery_Dataset_End_to_End_ML.ipynb
 )
 
+## Week 4
+
+We have a quiz on Tuesday, then we are going to work together to install miniconda and VS Code, and set up a project to continue the Mystery Data set work within VS Code.
+
+Time permitting, we will continue that work and cover units of generalization, training and test data, and k-fold validation, as we work through the code.
+
 
 
