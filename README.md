@@ -31,6 +31,7 @@ Download and install Miniforge for your operating system and processor:
 https://github.com/conda-forge/miniforge
 
 - **Windows:** use the Miniforge installer, then open the **Miniforge Prompt**
+  - Windows Miniconda installer: leave “Add Miniconda to PATH” unchecked.
 - **macOS:** install the appropriate Apple Silicon or Intel version, then use **Terminal**
 
 You only need to install Miniforge once.
