@@ -42,10 +42,16 @@ From this GitHub repository, download the file:
 
 `environment.yml`
 
-Then open Terminal (macOS) or Miniforge Prompt (Windows), navigate to the folder containing the file, and run:
+On Mac, open Terminal (hit command-space to bring up spotlight and type TERM and it should come up, then hit enter, and type:):
 
 ```bash
-conda env create -f environment.yml
+conda env create -f ~/Downloads/environment.yml
+```
+
+On windows, open the Miniforge Prompt (Windows), and run:
+
+```
+conda env create -f C:\Users\yourname\Downloads\environment.yml
 ```
 
 This will create the class environment named:
