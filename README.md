@@ -171,6 +171,8 @@ dependencies:
   - seaborn
   - statsmodels
   - pip
+  - ipympl
+  - mplcursors
 ```
 
 Note how these things are linked:
