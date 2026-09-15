@@ -111,6 +111,13 @@ If it doesn't show up there, try clicking the Python symbol in the left hand ext
 
 <img width="1728" height="1045" alt="image" src="https://github.com/user-attachments/assets/111cac7e-171a-4670-8168-cd51b3895d44" />
 
+A couple other gotchas:
+
+- After I did "Open Folder" to the folder with, for example, the Week 3 "Mystery Dataset" ipython notebook and data, it had to install the python extensions, then
+- I had to say i trusted the folder
+- I had to click the python extension on the left and navigate to conda then find the handson-ml environment, per above
+- Then i was enable to select is a the Python envirnoment kernel for the notebook.
+  
 ### 7. Test your setup
 
 Run several cells in the diagnostic notebook.
