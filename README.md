@@ -72,6 +72,15 @@ You should then see something like this at the beginning of your command prompt:
 (handson-ml-ai)
 ```
 
+One last step, we should install Jupyter Notebook support within the environment, unfortunately you can't do from the yaml easily:
+
+```bash
+python -m ipykernel install \
+  --user \
+  --name handson-ml-ai \
+  --display-name "Python (handson-ml-ai)"
+```
+
 ### 3. Install Visual Studio Code
 
 Download and install Visual Studio Code:
