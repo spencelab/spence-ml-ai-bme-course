@@ -230,5 +230,11 @@ We have a quiz on Tuesday, then we are going to work together to install minicon
 
 Time permitting, we will continue that work and cover units of generalization, training and test data, and k-fold validation, as we work through the code.
 
+## Week 5
+
+### Pipelines and Column Transformers Sidebar
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03a_Pipelines_and_ColumnTransformers_Gentle_Intro.ipynb
+)
 
 
