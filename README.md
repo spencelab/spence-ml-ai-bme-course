@@ -235,6 +235,8 @@ Time permitting, we will continue that work and cover units of generalization, t
 ### Pipelines and Column Transformers Gentle Introduction
 [Download 03a Notebook - Pipelines and ColumnTransformers Intro](notebooks/03a_Pipelines_and_ColumnTransformers_Gentle_Intro.ipynb?raw=1)
 
+[⬇️ Download the Jupyter notebook](https://raw.githubusercontent.com/spencelab/spence-ml-ai-bme-course/main/notebooks/03a_Pipelines_and_ColumnTransformers_Gentle_Intro.ipynb)
+
 ### Pipeline and Transformer Labels and opening source code side bar + debugger challennge
 [Download 03a0 Notebook - Labels and opening source code](notebooks/03a0_Pipeline_Labels_Are_Just_Names.ipynb?raw=1)
 
