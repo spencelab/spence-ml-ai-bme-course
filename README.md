@@ -233,20 +233,16 @@ Time permitting, we will continue that work and cover units of generalization, t
 ## Week 5
 
 ### Pipelines and Column Transformers Gentle Introduction
-[Download 03a Notebook - Pipelines and ColumnTransformers Intro](notebooks/03a_Pipelines_and_ColumnTransformers_Gentle_Intro.ipynb?raw=1)
-
-[⬇️ Download the Jupyter notebook](https://raw.githubusercontent.com/spencelab/spence-ml-ai-bme-course/main/notebooks/03a_Pipelines_and_ColumnTransformers_Gentle_Intro.ipynb)
-
-[Open notebook on GitHub](https://github.com/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03a_Pipelines_and_ColumnTransformers_Gentle_Intro.ipynb)
+[Open 03a Notebook - Pipelines and ColumnTransformers Intro](https://github.com/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03a_Pipelines_and_ColumnTransformers_Gentle_Intro.ipynb)
 
 ### Pipeline and Transformer Labels and opening source code side bar + debugger challennge
-[Download 03a0 Notebook - Labels and opening source code](notebooks/03a0_Pipeline_Labels_Are_Just_Names.ipynb?raw=1)
+[Open 03a0 Notebook - Labels and opening source code](https://github.com/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03a0_Pipeline_Labels_Are_Just_Names.ipynb)
 
 ### What is actually happening inside these objects? Nuts and bolts internals
-[Download 03a0 Notebook - Labels and opening source code](notebooks/03a1_Pipeline_Nuts_and_Bolts_Inspecting_Fitted_Models_nocode.ipynb?raw=1)
+[Open 03a1 Notebook - Nuts and Bolts - No code](https://github.com/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03a1_Pipeline_Nuts_and_Bolts_Inspecting_Fitted_Models_nocode.ipynb)
 
 version with code answers, but not exercise at end answer:
 
-[Download 03a0 Notebook - Labels and opening source code](notebooks/03a1_Pipeline_Nuts_and_Bolts_Inspecting_Fitted_Models.ipynb?raw=1)
+[Open 03a1 Notebook - Nuts and Bolts](https://github.com/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03a1_Pipeline_Nuts_and_Bolts_Inspecting_Fitted_Models.ipynb)
 
 
