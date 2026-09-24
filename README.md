@@ -232,9 +232,17 @@ Time permitting, we will continue that work and cover units of generalization, t
 
 ## Week 5
 
-### Pipelines and Column Transformers Sidebar
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03a_Pipelines_and_ColumnTransformers_Gentle_Intro.ipynb
-)
+### Pipelines and Column Transformers Gentle Introduction
+[Download 03a Notebook - Pipelines and ColumnTransformers Intro](notebooks/03a_Pipelines_and_ColumnTransformers_Gentle_Intro.ipynb?raw=1)
+
+### Pipeline and Transformer Labels and opening source code side bar + debugger challennge
+[Download 03a0 Notebook - Labels and opening source code](notebooks/03a0_Pipeline_Labels_Are_Just_Names.ipynb?raw=1)
+
+### What is actually happening inside these objects? Nuts and bolts internals
+[Download 03a0 Notebook - Labels and opening source code](notebooks/03a1_Pipeline_Nuts_and_Bolts_Inspecting_Fitted_Models_nocode.ipynb?raw=1)
+
+version with code answers, but not exercise at end answer:
+
+[Download 03a0 Notebook - Labels and opening source code](notebooks/03a1_Pipeline_Nuts_and_Bolts_Inspecting_Fitted_Models.ipynb?raw=1)
 
 
