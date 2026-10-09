@@ -245,4 +245,8 @@ version with code answers, but not exercise at end answer:
 
 [Open 03a1 Notebook - Nuts and Bolts](https://github.com/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/03a1_Pipeline_Nuts_and_Bolts_Inspecting_Fitted_Models.ipynb)
 
+## Week 6
+[Open 04 Notebook - IMU Sensor Logging](https://github.com/spencelab/spence-ml-ai-bme-course/blob/main/notebooks/04_IMU_SensorLogger_Sync_Label_Windowing_Tutorial_R2.ipynb)
+
+## Week 8
 
